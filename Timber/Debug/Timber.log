@@ -1,7 +1,9 @@
 ﻿  Timber.cpp
-C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(243,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(247,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(278,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(352,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(356,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-  Timber.vcxproj -> C:\Users\heido\source\repos\Timber\Debug\Timber.exe
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(329,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(354,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(425,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(566,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(570,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(595,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\heido\source\repos\Timber\Timber\Timber.cpp(599,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber.vcxproj -> C:\Users\heido\source\repos\Timber\Debug\TimberMan.exe
